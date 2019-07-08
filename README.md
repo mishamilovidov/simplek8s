@@ -5,7 +5,7 @@ A project for explorign k8s. This accompanies Stephen Grider's Udemy course,
 "Docker adnd Kubernetes: The Complete Guide."
 
 ## Notes
-* Kubernets Objects
+* Kubernetes Objects
   * Kinds
     * `Pod` - runs one or more closely related containers (ex. db with logger and back-up manager)
     * `Service` - sets up networking in a k8s cluster
