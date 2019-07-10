@@ -13,3 +13,4 @@ A project for explorign k8s. This accompanies Stephen Grider's Udemy course,
       * `NodePort` - exposes a container to the outside world (only for dev!!!)
       * `LoadBalancer`
       * `Ingress`
+    * `Deployment` - Maintains a set of identical pods, ensuring that they have the correct config and that the right number exists
